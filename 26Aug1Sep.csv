@@ -1,0 +1,8 @@
+Minimum temperature (°C),4DAvg Difference (Min Temp),Maximum temperature (°C),4DAvg Difference (Max Temp),Rainfall (mm),4DAvg Difference (Rainfall),Sunshine (hours),Speed of maximum wind gust (km/h),Wind speed (km/h),4DAvg Difference (Wind Speed),Weekday_Friday,Weekday_Monday,Weekday_Saturday,Weekday_Sunday,Weekday_Thursday,Weekday_Tuesday,Weekday_Wednesday
+12.8,0.825,18.6,-2.175,11.6,9.55,5.4,31.0,11.0,-5.1,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+12.4,0.05,20.2,-0.5,0.0,-4.0,1.3,63.0,25.0,9.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+14.0,1.3,18.6,-2.65,0.2,-3.75,7.9,57.0,19.5,2.25,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11.1,-1.7,17.6,-2.625,0.8,-2.15,3.7,65.0,17.5,-0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+12.0,-0.575,20.2,1.45,4.0,0.85,8.1,60.0,15.0,-3.25,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+13.0,0.625,18.5,-0.65,0.0,-1.25,5.9,67.0,22.0,2.75,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+14.2,1.675,20.4,1.675,0.2,-1.05,10.1,61.0,22.0,3.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0
