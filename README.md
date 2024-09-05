@@ -1,3 +1,3 @@
 # Weather Dependent Cycling Predictor
 
-I don't want to say I'm a fair weather cyclist but my days of riding through heavy rain or having to combat brutal headwinds in the name of fitness are reaching an end. Using weather data sourced from the Australian Bureau of Meterology along with my personal cycling data retrieved from Strava, I have developed a model that can review the upcoming weather forecast and predict which days I am most likely to go riding.
+I don't want to say I'm a fair weather cyclist but my days of riding through heavy rain or having to go up against brutal headwinds are reaching an end. To help plan my rides better, I’ll be using weather data from Australia’s Bureau of Meteorology alongside my personal cycling data from Strava, to train a machine learning model. The goal is to have this model predict the likelihood of going cycling on any given day based on the upcoming weather forecast, helping me choose the best days to ride.
